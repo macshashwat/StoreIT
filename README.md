@@ -26,7 +26,7 @@ A storage management and file sharing platform that lets users effortlessly uplo
 
 👉 **User Authentication with Appwrite**: Implement signup, login, and logout functionality using Appwrite's authentication system.
 
-👉 **FIle Uploads**: Effortlessly upload a variety of file types, including documents, images, videos, and audio, ensuring all your important data.
+👉 **File Uploads**: Effortlessly upload a variety of file types, including documents, images, videos, and audio, ensuring all your important data.
 
 👉 **View and Manage Files**: Users can browse through their uploaded files stored in Appwrite storage, view on a new tab, rename file or delete.
 
